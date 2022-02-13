@@ -1,0 +1,100 @@
+Iteration	a	h	maxTime=10
+4000	0.1	0.2
+Profit	Cost	Time
+26999.5	3598.087358025457	312873
+
+Iteration	a	h	maxTime=10
+4000	0.1	0.4
+Profit	Cost	Time
+27372.860000000004	3597.2232945746873	457509
+
+Iteration	a	h	maxTime=10
+4000	0.1	0.6
+Profit	Cost	Time
+26839.52	3598.4596163146225	351451
+
+Iteration	a	h	maxTime=10
+4000	0.1	0.8
+Profit	Cost	Time
+26658.22000000001	3598.885476812239	162723
+
+Iteration	a	h	maxTime=10
+4000	0.25	0.2
+Profit	Cost	Time
+27377.180000000004	3597.0694297971304	566712
+
+Iteration	a	h	maxTime=10
+4000	0.25	0.4
+Profit	Cost	Time
+27209.540000000008	3598.1381336022773	441192
+
+Iteration	a	h	maxTime=10
+4000	0.25	0.6
+Profit	Cost	Time
+24503.2	3598.966740919229	365229
+
+Iteration	a	h	maxTime=10
+4000	0.25	0.8
+Profit	Cost	Time
+25830.100000000006	3598.18015166119	242566
+
+Iteration	a	h	maxTime=10
+4000	0.5	0.2
+Profit	Cost	Time
+27088.32	3596.9221124145006	600524
+
+Iteration	a	h	maxTime=10
+4000	0.5	0.4
+Profit	Cost	Time
+26784.0	3596.3867798777233	514778
+
+Iteration	a	h	maxTime=10
+4000	0.5	0.6
+Profit	Cost	Time
+26643.440000000002	3596.133846487735	376193
+
+Iteration	a	h	maxTime=10
+4000	0.5	0.8
+Profit	Cost	Time
+25868.920000000002	3598.0400509486817	369038
+
+Iteration	a	h	maxTime=10
+4000	0.75	0.2
+Profit	Cost	Time
+26975.920000000002	3594.6416839992794	567754
+
+Iteration	a	h	maxTime=10
+4000	0.75	0.4
+Profit	Cost	Time
+27126.580000000005	3598.4711361940344	463298
+
+Iteration	a	h	maxTime=10
+4000	0.75	0.6
+Profit	Cost	Time
+26601.580000000005	3596.7656059677092	409173
+
+Iteration	a	h	maxTime=10
+4000	0.75	0.8
+Profit	Cost	Time
+26506.82	3598.4018794787057	391221
+
+Iteration	a	h	maxTime=10
+4000	0.9	0.2
+Profit	Cost	Time
+27174.380000000005	3595.715971093238	482547
+
+Iteration	a	h	maxTime=10
+4000	0.9	0.4
+Profit	Cost	Time
+26747.52	3597.8105535589843	600294
+
+Iteration	a	h	maxTime=10
+4000	0.9	0.6
+Profit	Cost	Time
+25964.4	3598.033107912147	482155
+
+Iteration	a	h	maxTime=10
+4000	0.9	0.8
+Profit	Cost	Time
+25343.040000000008	3595.887527926712	270676
+

@@ -1,0 +1,5 @@
+d2d	npop	ncand	p	maxTime=10
+50	100	10	0.01
+Profit	Cost	Time
+27751.940000000002	3597.215000654206	251556
+

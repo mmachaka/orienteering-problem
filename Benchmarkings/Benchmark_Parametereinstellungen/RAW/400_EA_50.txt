@@ -1,0 +1,360 @@
+d2d	npop	ncand	p	maxTime=10
+5	50	5	0.01
+Profit	Cost	Time
+19555.7	1898.847298890751	58502
+
+d2d	npop	ncand	p	maxTime=10
+5	50	7	0.01
+Profit	Cost	Time
+19639.260000000002	1896.4534465349461	46937
+
+d2d	npop	ncand	p	maxTime=10
+5	50	10	0.01
+Profit	Cost	Time
+19535.74	1896.5012463429653	46322
+
+d2d	npop	ncand	p	maxTime=10
+5	50	20	0.01
+Profit	Cost	Time
+19761.96	1896.5048200642698	57639
+
+d2d	npop	ncand	p	maxTime=10
+10	50	5	0.01
+Profit	Cost	Time
+19386.480000000003	1896.5821143370365	27171
+
+d2d	npop	ncand	p	maxTime=10
+10	50	7	0.01
+Profit	Cost	Time
+19528.879999999997	1898.6983844333595	37698
+
+d2d	npop	ncand	p	maxTime=10
+10	50	10	0.01
+Profit	Cost	Time
+19772.5	1896.8663073018301	36616
+
+d2d	npop	ncand	p	maxTime=10
+10	50	20	0.01
+Profit	Cost	Time
+19378.940000000002	1899.2853860429416	28972
+
+d2d	npop	ncand	p	maxTime=10
+20	50	5	0.01
+Profit	Cost	Time
+19742.120000000003	1898.4666310482655	22735
+
+d2d	npop	ncand	p	maxTime=10
+20	50	7	0.01
+Profit	Cost	Time
+19543.24	1896.2217065204754	21416
+
+d2d	npop	ncand	p	maxTime=10
+20	50	10	0.01
+Profit	Cost	Time
+19594.660000000003	1898.5811109908657	21583
+
+d2d	npop	ncand	p	maxTime=10
+20	50	20	0.01
+Profit	Cost	Time
+19596.780000000002	1895.3411893711989	24933
+
+d2d	npop	ncand	p	maxTime=10
+5	50	5	0.05
+Profit	Cost	Time
+19378.340000000004	1897.3604494624494	54640
+
+d2d	npop	ncand	p	maxTime=10
+5	50	7	0.05
+Profit	Cost	Time
+18858.4	1897.8176108403436	49783
+
+d2d	npop	ncand	p	maxTime=10
+5	50	10	0.05
+Profit	Cost	Time
+19308.780000000002	1895.934785812183	48441
+
+d2d	npop	ncand	p	maxTime=10
+5	50	20	0.05
+Profit	Cost	Time
+19497.620000000003	1896.4860501635733	44380
+
+d2d	npop	ncand	p	maxTime=10
+10	50	5	0.05
+Profit	Cost	Time
+18234.440000000006	1897.108674584758	22537
+
+d2d	npop	ncand	p	maxTime=10
+10	50	7	0.05
+Profit	Cost	Time
+19291.480000000003	1898.1343620630669	31531
+
+d2d	npop	ncand	p	maxTime=10
+10	50	10	0.05
+Profit	Cost	Time
+19384.200000000004	1897.8185971911134	33127
+
+d2d	npop	ncand	p	maxTime=10
+10	50	20	0.05
+Profit	Cost	Time
+18637.08	1897.7754626737976	25865
+
+d2d	npop	ncand	p	maxTime=10
+20	50	5	0.05
+Profit	Cost	Time
+19467.14	1897.716191660003	21007
+
+d2d	npop	ncand	p	maxTime=10
+20	50	7	0.05
+Profit	Cost	Time
+19396.9	1897.2576146585138	23764
+
+d2d	npop	ncand	p	maxTime=10
+20	50	10	0.05
+Profit	Cost	Time
+18586.02	1898.2687217525483	18804
+
+d2d	npop	ncand	p	maxTime=10
+20	50	20	0.05
+Profit	Cost	Time
+19671.980000000003	1896.0628058395316	24454
+
+d2d	npop	ncand	p	maxTime=10
+5	50	5	0.1
+Profit	Cost	Time
+18973.920000000002	1897.1472174305588	44392
+
+d2d	npop	ncand	p	maxTime=10
+5	50	7	0.1
+Profit	Cost	Time
+18512.700000000004	1897.0037939583567	39474
+
+d2d	npop	ncand	p	maxTime=10
+5	50	10	0.1
+Profit	Cost	Time
+19188.560000000005	1897.7531628880145	50957
+
+d2d	npop	ncand	p	maxTime=10
+5	50	20	0.1
+Profit	Cost	Time
+18796.360000000004	1897.011847461307	35295
+
+d2d	npop	ncand	p	maxTime=10
+10	50	5	0.1
+Profit	Cost	Time
+19363.5	1899.4388115899685	29862
+
+d2d	npop	ncand	p	maxTime=10
+10	50	7	0.1
+Profit	Cost	Time
+19535.96	1895.4850818645778	30107
+
+d2d	npop	ncand	p	maxTime=10
+10	50	10	0.1
+Profit	Cost	Time
+18825.200000000004	1899.4643730101538	32840
+
+d2d	npop	ncand	p	maxTime=10
+10	50	20	0.1
+Profit	Cost	Time
+19281.800000000003	1896.7054008056432	23068
+
+d2d	npop	ncand	p	maxTime=10
+20	50	5	0.1
+Profit	Cost	Time
+18736.300000000003	1897.71652800755	16528
+
+d2d	npop	ncand	p	maxTime=10
+20	50	7	0.1
+Profit	Cost	Time
+19505.32	1897.6788858659188	20381
+
+d2d	npop	ncand	p	maxTime=10
+20	50	10	0.1
+Profit	Cost	Time
+18519.100000000002	1898.1546431680745	19606
+
+d2d	npop	ncand	p	maxTime=10
+20	50	20	0.1
+Profit	Cost	Time
+19437.120000000003	1898.6718634720205	22301
+
+d2d	npop	ncand	p	maxTime=10
+5	50	5	0.25
+Profit	Cost	Time
+18344.860000000004	1898.1153950176963	42523
+
+d2d	npop	ncand	p	maxTime=10
+5	50	7	0.25
+Profit	Cost	Time
+18433.02	1899.3342708181826	50361
+
+d2d	npop	ncand	p	maxTime=10
+5	50	10	0.25
+Profit	Cost	Time
+18661.340000000004	1898.0848056018826	60072
+
+d2d	npop	ncand	p	maxTime=10
+5	50	20	0.25
+Profit	Cost	Time
+18614.1	1897.434088029282	41615
+
+d2d	npop	ncand	p	maxTime=10
+10	50	5	0.25
+Profit	Cost	Time
+18229.480000000003	1896.6614632660032	23676
+
+d2d	npop	ncand	p	maxTime=10
+10	50	7	0.25
+Profit	Cost	Time
+18625.920000000002	1898.1730085358963	21462
+
+d2d	npop	ncand	p	maxTime=10
+10	50	10	0.25
+Profit	Cost	Time
+18512.960000000003	1898.8195204289368	23640
+
+d2d	npop	ncand	p	maxTime=10
+10	50	20	0.25
+Profit	Cost	Time
+18966.760000000002	1897.7699768532689	33081
+
+d2d	npop	ncand	p	maxTime=10
+20	50	5	0.25
+Profit	Cost	Time
+18570.100000000002	1898.5788965691165	20501
+
+d2d	npop	ncand	p	maxTime=10
+20	50	7	0.25
+Profit	Cost	Time
+17705.260000000002	1897.15976835476	14896
+
+d2d	npop	ncand	p	maxTime=10
+20	50	10	0.25
+Profit	Cost	Time
+18911.340000000004	1897.2909544487666	19041
+
+d2d	npop	ncand	p	maxTime=10
+20	50	20	0.25
+Profit	Cost	Time
+17726.220000000005	1897.8186952407182	16845
+
+d2d	npop	ncand	p	maxTime=10
+5	50	5	0.5
+Profit	Cost	Time
+16671.480000000003	1897.5292003703155	39730
+
+d2d	npop	ncand	p	maxTime=10
+5	50	7	0.5
+Profit	Cost	Time
+17408.560000000005	1897.961187347041	58838
+
+d2d	npop	ncand	p	maxTime=10
+5	50	10	0.5
+Profit	Cost	Time
+17757.440000000002	1897.9053333043798	44457
+
+d2d	npop	ncand	p	maxTime=10
+5	50	20	0.5
+Profit	Cost	Time
+17656.86	1898.3604010311924	48694
+
+d2d	npop	ncand	p	maxTime=10
+10	50	5	0.5
+Profit	Cost	Time
+16846.900000000005	1898.1238209147632	28433
+
+d2d	npop	ncand	p	maxTime=10
+10	50	7	0.5
+Profit	Cost	Time
+17797.52	1898.7269637575632	32607
+
+d2d	npop	ncand	p	maxTime=10
+10	50	10	0.5
+Profit	Cost	Time
+17361.9	1898.8162977543047	27627
+
+d2d	npop	ncand	p	maxTime=10
+10	50	20	0.5
+Profit	Cost	Time
+18220.020000000004	1897.0059031831072	32416
+
+d2d	npop	ncand	p	maxTime=10
+20	50	5	0.5
+Profit	Cost	Time
+16948.4	1898.727129922126	26425
+
+d2d	npop	ncand	p	maxTime=10
+20	50	7	0.5
+Profit	Cost	Time
+16690.980000000003	1899.2345927316796	22453
+
+d2d	npop	ncand	p	maxTime=10
+20	50	10	0.5
+Profit	Cost	Time
+17313.480000000003	1898.7794284124345	24531
+
+d2d	npop	ncand	p	maxTime=10
+20	50	20	0.5
+Profit	Cost	Time
+17381.280000000002	1898.0720753165565	24584
+
+d2d	npop	ncand	p	maxTime=10
+5	50	5	0.75
+Profit	Cost	Time
+16963.780000000002	1899.4839894532295	69826
+
+d2d	npop	ncand	p	maxTime=10
+5	50	7	0.75
+Profit	Cost	Time
+16734.18	1897.9752726968277	74684
+
+d2d	npop	ncand	p	maxTime=10
+5	50	10	0.75
+Profit	Cost	Time
+16644.8	1899.1392814683052	70944
+
+d2d	npop	ncand	p	maxTime=10
+5	50	20	0.75
+Profit	Cost	Time
+16679.5	1897.8463695068326	78452
+
+d2d	npop	ncand	p	maxTime=10
+10	50	5	0.75
+Profit	Cost	Time
+16720.94	1898.1962695344646	60234
+
+d2d	npop	ncand	p	maxTime=10
+10	50	7	0.75
+Profit	Cost	Time
+16706.140000000003	1898.931981579875	57363
+
+d2d	npop	ncand	p	maxTime=10
+10	50	10	0.75
+Profit	Cost	Time
+16564.879999999997	1897.5977281966436	55658
+
+d2d	npop	ncand	p	maxTime=10
+10	50	20	0.75
+Profit	Cost	Time
+16659.839999999997	1898.5577471774418	58900
+
+d2d	npop	ncand	p	maxTime=10
+20	50	5	0.75
+Profit	Cost	Time
+16801.420000000002	1899.057149036132	57734
+
+d2d	npop	ncand	p	maxTime=10
+20	50	7	0.75
+Profit	Cost	Time
+16659.54	1899.4348355995667	53730
+
+d2d	npop	ncand	p	maxTime=10
+20	50	10	0.75
+Profit	Cost	Time
+16601.06	1897.9630007308547	53311
+
+d2d	npop	ncand	p	maxTime=10
+20	50	20	0.75
+Profit	Cost	Time
+16749.8	1898.1122347329317	52531
+

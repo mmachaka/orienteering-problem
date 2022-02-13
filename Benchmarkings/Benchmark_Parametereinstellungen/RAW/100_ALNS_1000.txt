@@ -1,0 +1,100 @@
+Iteration	a	h	maxTime=10
+1000	0.1	0.2
+Profit	Cost	Time
+4971.620000000002	397.12788550005337	289
+
+Iteration	a	h	maxTime=10
+1000	0.1	0.4
+Profit	Cost	Time
+4773.020000000001	395.37678263561764	325
+
+Iteration	a	h	maxTime=10
+1000	0.1	0.6
+Profit	Cost	Time
+5384.040000000002	396.48519721056914	289
+
+Iteration	a	h	maxTime=10
+1000	0.1	0.8
+Profit	Cost	Time
+4005.140000000001	399.59185017728305	244
+
+Iteration	a	h	maxTime=10
+1000	0.25	0.2
+Profit	Cost	Time
+5634.000000000002	393.47001038594243	514
+
+Iteration	a	h	maxTime=10
+1000	0.25	0.4
+Profit	Cost	Time
+5214.960000000001	394.15325338551526	336
+
+Iteration	a	h	maxTime=10
+1000	0.25	0.6
+Profit	Cost	Time
+5214.960000000001	392.01071030073985	369
+
+Iteration	a	h	maxTime=10
+1000	0.25	0.8
+Profit	Cost	Time
+5393.160000000002	395.4301480732004	223
+
+Iteration	a	h	maxTime=10
+1000	0.5	0.2
+Profit	Cost	Time
+5634.000000000002	393.8714905197751	773
+
+Iteration	a	h	maxTime=10
+1000	0.5	0.4
+Profit	Cost	Time
+5634.000000000002	394.4091350933132	660
+
+Iteration	a	h	maxTime=10
+1000	0.5	0.6
+Profit	Cost	Time
+5634.000000000002	394.08144388481605	329
+
+Iteration	a	h	maxTime=10
+1000	0.5	0.8
+Profit	Cost	Time
+5634.000000000002	393.5496557063312	610
+
+Iteration	a	h	maxTime=10
+1000	0.75	0.2
+Profit	Cost	Time
+5634.000000000002	392.96443562142304	977
+
+Iteration	a	h	maxTime=10
+1000	0.75	0.4
+Profit	Cost	Time
+5634.000000000002	393.3336401527869	559
+
+Iteration	a	h	maxTime=10
+1000	0.75	0.6
+Profit	Cost	Time
+5392.880000000002	396.47056022368963	908
+
+Iteration	a	h	maxTime=10
+1000	0.75	0.8
+Profit	Cost	Time
+5634.000000000002	393.91813925466687	670
+
+Iteration	a	h	maxTime=10
+1000	0.9	0.2
+Profit	Cost	Time
+5634.000000000002	393.3341756277114	965
+
+Iteration	a	h	maxTime=10
+1000	0.9	0.4
+Profit	Cost	Time
+5634.000000000002	393.89557666367233	801
+
+Iteration	a	h	maxTime=10
+1000	0.9	0.6
+Profit	Cost	Time
+5634.000000000002	394.5221994535085	620
+
+Iteration	a	h	maxTime=10
+1000	0.9	0.8
+Profit	Cost	Time
+5382.160000000002	395.37287959180964	633
+

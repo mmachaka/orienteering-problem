@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/Mahmoud/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar;C:/Users/Mahmoud/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar'
+-encoding
+'Cp1252'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Mahmoud/Desktop/Entwicklung/eclipse-workspace/orienteering-problem/orienteering-problem-api/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Mahmoud/Desktop/Entwicklung/eclipse-workspace/orienteering-problem/orienteering-problem-api/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'orienteering-problem-api 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Mahmoud/Desktop/Entwicklung/eclipse-workspace/orienteering-problem/orienteering-problem-api/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'orienteering-problem-api 1.0 API'

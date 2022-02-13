@@ -1,0 +1,100 @@
+Iteration	a	h	maxTime=10
+3000	0.1	0.2
+Profit	Cost	Time
+10039.36	894.2082641888385	6458
+
+Iteration	a	h	maxTime=10
+3000	0.1	0.4
+Profit	Cost	Time
+10115.840000000002	895.8843949485421	7223
+
+Iteration	a	h	maxTime=10
+3000	0.1	0.6
+Profit	Cost	Time
+9817.98	896.6402034601251	5250
+
+Iteration	a	h	maxTime=10
+3000	0.1	0.8
+Profit	Cost	Time
+9999.9	896.0810163537066	5917
+
+Iteration	a	h	maxTime=10
+3000	0.25	0.2
+Profit	Cost	Time
+10815.04	897.235702635154	11127
+
+Iteration	a	h	maxTime=10
+3000	0.25	0.4
+Profit	Cost	Time
+10597.14	897.1206604247615	15617
+
+Iteration	a	h	maxTime=10
+3000	0.25	0.6
+Profit	Cost	Time
+10525.5	896.0791424818224	10391
+
+Iteration	a	h	maxTime=10
+3000	0.25	0.8
+Profit	Cost	Time
+10279.46	896.8358621923189	12516
+
+Iteration	a	h	maxTime=10
+3000	0.5	0.2
+Profit	Cost	Time
+10604.060000000001	896.7599259872981	17564
+
+Iteration	a	h	maxTime=10
+3000	0.5	0.4
+Profit	Cost	Time
+10576.26	896.167938435078	8843
+
+Iteration	a	h	maxTime=10
+3000	0.5	0.6
+Profit	Cost	Time
+10309.780000000002	893.44649481405	15573
+
+Iteration	a	h	maxTime=10
+3000	0.5	0.8
+Profit	Cost	Time
+10418.420000000002	895.9501064225755	15734
+
+Iteration	a	h	maxTime=10
+3000	0.75	0.2
+Profit	Cost	Time
+10505.600000000002	897.7320835044059	16107
+
+Iteration	a	h	maxTime=10
+3000	0.75	0.4
+Profit	Cost	Time
+10459.42	896.7500942553046	19332
+
+Iteration	a	h	maxTime=10
+3000	0.75	0.6
+Profit	Cost	Time
+10003.960000000001	897.6673636681726	20799
+
+Iteration	a	h	maxTime=10
+3000	0.75	0.8
+Profit	Cost	Time
+9571.54	895.1333754784021	9310
+
+Iteration	a	h	maxTime=10
+3000	0.9	0.2
+Profit	Cost	Time
+10281.660000000002	895.954321657611	21604
+
+Iteration	a	h	maxTime=10
+3000	0.9	0.4
+Profit	Cost	Time
+10418.560000000001	896.7240298079016	23034
+
+Iteration	a	h	maxTime=10
+3000	0.9	0.6
+Profit	Cost	Time
+10103.900000000001	896.5658220734091	18010
+
+Iteration	a	h	maxTime=10
+3000	0.9	0.8
+Profit	Cost	Time
+10347.920000000002	898.8095168983067	21062
+
