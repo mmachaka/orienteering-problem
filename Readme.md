@@ -11,9 +11,10 @@ Im vorliegenden Verzeichnis sind folgende Ordner und Dateien enthalten:
 | Benchmarkings | Enthält die verwendeten Benchmark-Graphen und die Ergebnisse durchgeführter Benchmarking-Tests |
 | Dokumentation	| Enthält die JavaDoc-Dokumentation für die API der Anwendung. Öffnen Sie die index.html-Datei, um die Dokumentation anzuzeigen. |
 | orienteering-problem	| Quellcode der Anwendungen als Maven-Projekt |
-| OPBenchmarking (.jar \| .exe) | Applikation zur Durchführung von Benchmarking-Tests.    |
-| OPSolver <br />(.jar \| .exe)	| Hauptapplikation zur Anwendung heuristischer Algorithmen. |
-| Readme <br />(.md \| .pdf )	| Readme-Datei, die Hinweise und eine Bedienungsanleitung für die Anwendung enthält. |
+| 28-02-2022 - Machaka, Mahmoud - Masterarbeit	| Eingereichte Masterarbeit mit dem Titel "Anwendung heuristischer Algorithmen zur Lösung des Orientierungsproblems" |
+| OPBenchmarking | Applikation zur Durchführung von Benchmarking-Tests.    |
+| OPSolver	| Hauptapplikation zur Anwendung heuristischer Algorithmen. |
+| Readme	| Readme-Datei, die Hinweise und eine Bedienungsanleitung für die Anwendung enthält. |
 
 
 ## Einleitung
